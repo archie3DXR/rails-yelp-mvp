@@ -35,6 +35,10 @@
     {
       "filePath": "config/routes.rb",
       "group": "Default"
+    },
+    {
+      "filePath": "db",
+      "group": "Default"
     }
   ]
 }

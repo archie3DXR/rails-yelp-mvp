@@ -1,0 +1,40 @@
+{
+  "workbench.colorCustomizations": {
+    "activityBar.activeBackground": "#39438c",
+    "activityBar.background": "#39438c",
+    "activityBar.foreground": "#e7e7e7",
+    "activityBar.inactiveForeground": "#e7e7e799",
+    "activityBarBadge.background": "#be606c",
+    "activityBarBadge.foreground": "#e7e7e7",
+    "commandCenter.border": "#e7e7e799",
+    "sash.hoverBorder": "#39438c",
+    "statusBar.background": "#2a3268",
+    "statusBar.foreground": "#e7e7e7",
+    "statusBarItem.hoverBackground": "#39438c",
+    "statusBarItem.remoteBackground": "#2a3268",
+    "statusBarItem.remoteForeground": "#e7e7e7",
+    "titleBar.activeBackground": "#2a3268",
+    "titleBar.activeForeground": "#e7e7e7",
+    "titleBar.inactiveBackground": "#2a326899",
+    "titleBar.inactiveForeground": "#e7e7e799"
+  },
+  "peacock.remoteColor": "2a3268",
+  "favorites.resources": [
+    {
+      "filePath": "app/models",
+      "group": "Default"
+    },
+    {
+      "filePath": "app/views",
+      "group": "Default"
+    },
+    {
+      "filePath": "app/controllers",
+      "group": "Default"
+    },
+    {
+      "filePath": "config/routes.rb",
+      "group": "Default"
+    }
+  ]
+}
